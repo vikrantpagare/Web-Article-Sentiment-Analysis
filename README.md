@@ -14,15 +14,23 @@
   * WORD COUNT
   * SYLLABLE PER WORD
   * PERSONAL PRONOUNS
-  * AVG WORD LENGTH
+  * AVG WORD LENGTH 
 
-  
 
-* Labraries and dependancies Used
+Labraries and dependancies Used
 
   * BeautifulSoup - from bs4 import BeautifulSoup
   * Natural Language Tool Kit nltk
   * Numpy
   * Pandas
   * os
+
+List of URLS and there source can be provided using Input.xlsx file in a list format
+
+My Approch is to make funtions for each variable we want to find
+
+Text file is genarated with title and article with file name same as given in the source inpute file for each source in same Directory / Folder 
+
+Output_File is genarated in same Directory / Folder
+
   
